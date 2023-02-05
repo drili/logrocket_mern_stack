@@ -1,0 +1,5 @@
+- link:
+    https://blog.logrocket.com/mern-stack-tutorial/
+
+- progress / section:
+    Building RESTful APIs with the MERN stack (https://blog.logrocket.com/mern-stack-tutorial/#restful-api-mern-stack)
