@@ -1,0 +1,9 @@
+- https://blog.logrocket.com/mern-stack-tutorial/
+- https://blog.logrocket.com/javascript-concepts-before-learning-react/
+
+- mongodb db:
+global_test_stuff
+
+- mongodb user:
+dbkynetic
+Kynetic123123
