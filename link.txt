@@ -7,3 +7,6 @@ global_test_stuff
 - mongodb user:
 dbkynetic
 Kynetic123123
+
+- mongodb URI
+mongodb+srv://dbkynetic:<password>@cluster0.f80a2n8.mongodb.net/?retryWrites=true&w=majority
