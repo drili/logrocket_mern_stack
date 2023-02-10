@@ -1,2 +1,7 @@
+[SERVER]
 - Run project:
     ``` npm run app ```
+
+[CLIENT]
+- Run project:
+    ``` npm start ```
