@@ -29,7 +29,7 @@ router.get('/:id', (req, res) => {
         .catch(err => res.status(404).json({ nobookfound: '::: No Book found' }));
 });
 
-// @route GET api/books
+// @route POST api/books
 // @description add/save book
 // @access Public
 router.post('/', (req, res) => {
@@ -38,7 +38,7 @@ router.post('/', (req, res) => {
         .catch(err => res.status(400).json({ error: '::: Unable to add this book' }));
 });
 
-// @route GET api/books/:id
+// @route PUT api/books/:id
 // @description Update book
 // @access Public
 router.put('/:id', (req, res) => {
@@ -49,7 +49,7 @@ router.put('/:id', (req, res) => {
         );
 });
 
-// @route GET api/books/:id
+// @route DELETE api/books/:id
 // @description Delete book by id
 // @access Public
 router.delete('/:id', (req, res) => {
