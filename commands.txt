@@ -5,3 +5,5 @@
 [CLIENT]
 - Run project:
     ``` npm start ```
+
+    (Make sure you run ``` npm install ``` if first time running the client)
