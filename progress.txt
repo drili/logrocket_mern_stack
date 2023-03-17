@@ -7,4 +7,4 @@
     3. Setting up routes (https://blog.logrocket.com/mern-stack-tutorial/#routes)
     4. Feature components (https://blog.logrocket.com/mern-stack-tutorial/#feature-components) 
         -> ShowBookList.js
-    5. Connecting and running the frontend to the backend (https://blog.logrocket.com/mern-stack-tutorial/#frontend-backend)
+    5. Connecting and running the frontend to the backend (https://blog.logrocket.com/mern-stack-tutorial/#frontend-backend)...
